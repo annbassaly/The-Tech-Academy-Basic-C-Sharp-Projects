@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.exe.config
+C:\Users\Student\source\repos\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.exe
+C:\Users\Student\source\repos\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.pdb
+C:\Users\Student\source\repos\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.exe
+C:\Users\Student\source\repos\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.pdb
