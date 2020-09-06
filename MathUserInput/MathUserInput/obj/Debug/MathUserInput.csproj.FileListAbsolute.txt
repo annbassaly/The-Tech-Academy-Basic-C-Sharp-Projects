@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\MathUserInput\MathUserInput\bin\Debug\MathUserInput.exe.config
+C:\Users\Student\source\repos\MathUserInput\MathUserInput\bin\Debug\MathUserInput.exe
+C:\Users\Student\source\repos\MathUserInput\MathUserInput\bin\Debug\MathUserInput.pdb
+C:\Users\Student\source\repos\MathUserInput\MathUserInput\obj\Debug\MathUserInput.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\MathUserInput\MathUserInput\obj\Debug\MathUserInput.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MathUserInput\MathUserInput\obj\Debug\MathUserInput.exe
+C:\Users\Student\source\repos\MathUserInput\MathUserInput\obj\Debug\MathUserInput.pdb
