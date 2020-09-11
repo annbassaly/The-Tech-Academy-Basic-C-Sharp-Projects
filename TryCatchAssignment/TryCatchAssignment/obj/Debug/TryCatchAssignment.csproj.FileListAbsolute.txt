@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe.config
+C:\Users\Student\source\repos\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe
+C:\Users\Student\source\repos\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.pdb
+C:\Users\Student\source\repos\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.exe
+C:\Users\Student\source\repos\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.pdb
