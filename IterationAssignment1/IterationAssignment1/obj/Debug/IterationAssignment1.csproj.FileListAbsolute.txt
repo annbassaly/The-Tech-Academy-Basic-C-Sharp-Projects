@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\IterationAssignment1\IterationAssignment1\bin\Debug\IterationAssignment1.exe.config
+C:\Users\Student\source\repos\IterationAssignment1\IterationAssignment1\bin\Debug\IterationAssignment1.exe
+C:\Users\Student\source\repos\IterationAssignment1\IterationAssignment1\bin\Debug\IterationAssignment1.pdb
+C:\Users\Student\source\repos\IterationAssignment1\IterationAssignment1\obj\Debug\IterationAssignment1.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\IterationAssignment1\IterationAssignment1\obj\Debug\IterationAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\IterationAssignment1\IterationAssignment1\obj\Debug\IterationAssignment1.exe
+C:\Users\Student\source\repos\IterationAssignment1\IterationAssignment1\obj\Debug\IterationAssignment1.pdb
