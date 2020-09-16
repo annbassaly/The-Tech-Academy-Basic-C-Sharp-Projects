@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\MethodsAssignment2\MethodsAssignment2\obj\Debug\MethodsAssignment2.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\MethodsAssignment2\MethodsAssignment2\obj\Debug\MethodsAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MethodsAssignment2\MethodsAssignment2\bin\Debug\MethodsAssignment2.exe.config
+C:\Users\Student\source\repos\MethodsAssignment2\MethodsAssignment2\bin\Debug\MethodsAssignment2.exe
+C:\Users\Student\source\repos\MethodsAssignment2\MethodsAssignment2\bin\Debug\MethodsAssignment2.pdb
+C:\Users\Student\source\repos\MethodsAssignment2\MethodsAssignment2\obj\Debug\MethodsAssignment2.exe
+C:\Users\Student\source\repos\MethodsAssignment2\MethodsAssignment2\obj\Debug\MethodsAssignment2.pdb
