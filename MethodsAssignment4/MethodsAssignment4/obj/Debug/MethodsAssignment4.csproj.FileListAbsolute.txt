@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\MethodsAssignment4\MethodsAssignment4\obj\Debug\MethodsAssignment4.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\MethodsAssignment4\MethodsAssignment4\obj\Debug\MethodsAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MethodsAssignment4\MethodsAssignment4\bin\Debug\MethodsAssignment4.exe.config
+C:\Users\Student\source\repos\MethodsAssignment4\MethodsAssignment4\bin\Debug\MethodsAssignment4.exe
+C:\Users\Student\source\repos\MethodsAssignment4\MethodsAssignment4\bin\Debug\MethodsAssignment4.pdb
+C:\Users\Student\source\repos\MethodsAssignment4\MethodsAssignment4\obj\Debug\MethodsAssignment4.exe
+C:\Users\Student\source\repos\MethodsAssignment4\MethodsAssignment4\obj\Debug\MethodsAssignment4.pdb
