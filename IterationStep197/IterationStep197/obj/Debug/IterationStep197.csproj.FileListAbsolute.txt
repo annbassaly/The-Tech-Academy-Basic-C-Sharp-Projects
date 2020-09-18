@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\IterationStep197\IterationStep197\bin\Debug\IterationStep197.exe.config
+C:\Users\Student\source\repos\IterationStep197\IterationStep197\bin\Debug\IterationStep197.exe
+C:\Users\Student\source\repos\IterationStep197\IterationStep197\bin\Debug\IterationStep197.pdb
+C:\Users\Student\source\repos\IterationStep197\IterationStep197\obj\Debug\IterationStep197.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\IterationStep197\IterationStep197\obj\Debug\IterationStep197.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\IterationStep197\IterationStep197\obj\Debug\IterationStep197.exe
+C:\Users\Student\source\repos\IterationStep197\IterationStep197\obj\Debug\IterationStep197.pdb
