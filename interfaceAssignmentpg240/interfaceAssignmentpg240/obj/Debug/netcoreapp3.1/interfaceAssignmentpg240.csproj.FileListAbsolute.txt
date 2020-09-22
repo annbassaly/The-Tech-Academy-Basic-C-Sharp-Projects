@@ -1,0 +1,4 @@
+C:\Users\Student\source\repos\interfaceAssignmentpg240\interfaceAssignmentpg240\obj\Debug\netcoreapp3.1\interfaceAssignmentpg240.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\interfaceAssignmentpg240\interfaceAssignmentpg240\obj\Debug\netcoreapp3.1\interfaceAssignmentpg240.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\interfaceAssignmentpg240\interfaceAssignmentpg240\obj\Debug\netcoreapp3.1\interfaceAssignmentpg240.AssemblyInfo.cs
+C:\Users\Student\source\repos\interfaceAssignmentpg240\interfaceAssignmentpg240\obj\Debug\netcoreapp3.1\interfaceAssignmentpg240.csproj.CoreCompileInputs.cache
